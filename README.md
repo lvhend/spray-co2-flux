@@ -1,4 +1,4 @@
-# spray-co2-flux-2025
+# Air-Sea CO2 Flux Driven by Sea Spray
 MATLAB code to model air-sea CO2 flux driven by sea spray
 
 This repository contains a model for air-sea CO2 exchange driven by sea spray evaporation, hereafter referred to as SAGE. The SAGE model calculates the changes in carbonate chemistry and CO2 gas exchange within a spray droplet driven by its temperature changes and evaporation. The individual droplet results are scaled by the full spray production modeled using the sea spray generation equations of Barr et al (2023) (B23) and Andreas (1998) (A98). 
